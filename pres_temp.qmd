@@ -1,0 +1,22 @@
+---
+title: "Template"
+author: "Pascal"
+format: revealjs
+editor: visual
+---
+
+## Presentation template
+
+first slide
+
+## Bullets
+
+-   one
+-   two
+
+## Code
+
+
+```{r}
+1 + 1
+```
