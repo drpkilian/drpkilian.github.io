@@ -1,0 +1,21 @@
+---
+title: "pres_temp"
+author: "Pascal"
+format: revealjs
+editor: visual
+---
+
+## Presentation template
+
+test
+
+## Bullets
+
+-   one
+-   two
+
+## Code
+
+```{r}
+1 + 1
+```
