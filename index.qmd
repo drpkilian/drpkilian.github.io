@@ -1,28 +1,30 @@
 ---
-title: "Presentation"
-subtitle: "sub"
+#title: "Presentation"
+#subtitle: "sub"
 author: "Pascal"
 format:
   revealjs:
     slide-number: true
-    footer: "Retreat 22"
-    theme: default
+    footer: "Pascal Kilian -- Retreat 22"
+    logo: "fig/MZ_logo_rot.png"
+    theme: [default, custom.scss]
     preview-links: auto
 editor: visual
 ---
 
-## Presentation template
+# Talk about Research
 
-Das ist ein test
+Pascal Kilian
 
-## Bullets
+![](fig/logo_gauss.png){fig-align="center"}
 
--   one
--   two
+## Overview
+
+-   Current Research and Results
 
 ## Code
 
-```{.python code-line-numbers="|6|9"}
+``` {.python code-line-numbers="|6|9"}
 import numpy as np
 import matplotlib.pyplot as plt
 
